@@ -1,2 +1,2 @@
 # resu-repo
-resu's repo
+**resu**'s repo
